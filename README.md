@@ -3,7 +3,7 @@
 # Welcome!
 ## Hey, I'm Graciele! Let me show you who I am ✨
 
-Future Software Engineer | Tech Support Specialist transitioning to Development :woman_technologist:
+Software Engineer | Tech Support Specialist transitioning to Development :woman_technologist:
 
 Lover of technology, problem-solving and continuous learning :sparkles:
 
