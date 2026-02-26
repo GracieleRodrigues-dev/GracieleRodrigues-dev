@@ -1,12 +1,7 @@
 <img align="right" width="350" height="250" src="https://gifdb.com/images/high/cute-wave-small-fox-06runm73dcrrg9ea.webp">
 
 # Welcome!
-## Hey, I'm Graciele! Let me show you who I am ✨
-
-Software Engineer | Tech Support Specialist transitioning to Development :woman_technologist:
-
-Lover of technology, problem-solving and continuous learning :sparkles:
-
+## Hey, I'm Graciele! 
 ---
 
 ## About me 
